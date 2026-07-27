@@ -5,9 +5,9 @@ Agosto-Diciembre 2026
 **Instructor**: [Denis Parra](http://dparra.sitios.ing.uc.cl), Profesor Asociado PUC Chile, Ph.D. University of Pittsburgh
 
 **Ayudantes**:
-* [Pedro Palma](#), Estudiante de Magíster, Ciencia de la Computación PUC Chile (aplaza2@uc.cl).
+* [Pedro Palma](#), Estudiante de Magíster, Ciencia de la Computación PUC Chile (pedro.palma@uc.cl).
 * [José Tomás Villalobos](#), Estudiante de Magíster, Ciencia de la Computación PUC Chile (juan_manuel1402@uc.cl).
-* [Alonso Tamayo(#), Estudiante de Magíster, Ciencia de la Computación PUC Chile (nestevez@uc.cl)
+* [Alonso Tamayo](#), Estudiante de Magíster, Ciencia de la Computación PUC Chile (nestevez@uc.cl)
  
 **Institución**: Pontificia Universidad Católica de Chile
 
