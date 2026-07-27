@@ -6,7 +6,7 @@ Agosto-Diciembre 2026
 
 **Ayudantes**:
 * [Pedro Palma](#), Estudiante de Magíster, Ciencia de la Computación PUC Chile (pedro.palma@uc.cl).
-* [José Tomás Villalobos](#), Estudiante de Magíster, Ciencia de la Computación PUC Chile (juan_manuel1402@uc.cl).
+* [José Tomás Villalobos](#), Estudiante de Ingeniería de Software, PUC Chile (jos.villalobos@uc.cl).
 * [Alonso Tamayo](#), Estudiante de Magíster, Ciencia de la Computación PUC Chile (nestevez@uc.cl)
  
 **Institución**: Pontificia Universidad Católica de Chile
