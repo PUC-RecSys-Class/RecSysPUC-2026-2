@@ -14,7 +14,7 @@ Agosto-Diciembre 2026
 **Horario cátedra**: Martes y Jueves, Módulo 3 (11:00 a 12:10). Sala por confirmar.
 **Horario ayudantía**: Lunes, Módulo 5 (14:50 a 16:00). Sala por confirmar.
 
-**Sitio web lecturas**: [Perusall](https://app.perusall.com/join/xxx)
+**Sitio web lecturas**: [Perusall](https://app.perusall.com/join/PARRA-6XAGJ)
 
 **Programa** IIC3633, 2do Semestre 2026: [pdf](documentos/IIC3633Sist%20Recomendadores_v5.pdf)
 
