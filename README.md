@@ -25,7 +25,7 @@ Agosto-Diciembre 2026
 
 El curso de Sistemas Recomendadores cubre las principales tareas de recomendación, algoritmos, fuentes de datos y evaluación de estos sistemas. Al final de este curso serás capaz de decidir qué técnicas y fuentes de datos usar para implementar y evaluar sistemas recomendadores.
 
-**Software**: [Suprise](http://surpriselib.com/), [Implicit](https://github.com/benfred/implicit) y [pyRecLab](https://github.com/gasevi/pyreclab/), [RecBole](https://recbole.cl) .
+**Software**: [Suprise](http://surpriselib.com/), [Implicit](https://github.com/benfred/implicit) y [pyRecLab](https://github.com/gasevi/pyreclab/), [RecBole](https://recbole.io) .
 
 <!-- ## Planificación general (sujeta a actualización) -->
 
