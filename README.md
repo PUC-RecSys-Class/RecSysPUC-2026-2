@@ -1,36 +1,25 @@
 # IIC3633 Sistemas Recomendadores
-Marzo-Julio 2026
+Agosto-Diciembre 2026
 
 ### Equipo Docente e Información Administrativa
 **Instructor**: [Denis Parra](http://dparra.sitios.ing.uc.cl), Profesor Asociado PUC Chile, Ph.D. University of Pittsburgh
 
 **Ayudantes**:
-* [Alejandro Plaza](#), Estudiante de Magíster, Ciencia de la Computación PUC Chile (aplaza2@uc.cl).
-* [Juan Manuel Hernandez](#), Estudiante de Magíster, Ciencia de la Computación PUC Chile (juan_manuel1402@uc.cl).
-* [Nicolás Estévez](#), Estudiante de Magíster, Ciencia de la Computación PUC Chile (nestevez@uc.cl)
+* [Pedro Palma](#), Estudiante de Magíster, Ciencia de la Computación PUC Chile (aplaza2@uc.cl).
+* [José Tomás Villalobos](#), Estudiante de Magíster, Ciencia de la Computación PUC Chile (juan_manuel1402@uc.cl).
+* [Alonso Tamayo(#), Estudiante de Magíster, Ciencia de la Computación PUC Chile (nestevez@uc.cl)
  
 **Institución**: Pontificia Universidad Católica de Chile
 
-**Horario cátedra**: Martes y Jueves, Módulo 3 (11:00 a 12:10). Sala B21.
-**Horario ayudantía**: Lunes, Módulo 5 (14:50 a 16:00). Sala BC22.
+**Horario cátedra**: Martes y Jueves, Módulo 3 (11:00 a 12:10). Sala por confirmar.
+**Horario ayudantía**: Lunes, Módulo 5 (14:50 a 16:00). Sala por confirmar.
 
-**Sitio web lecturas**: [Perusall](https://app.perusall.com/join/PARRA-XZXAH)
+**Sitio web lecturas**: [Perusall](https://app.perusall.com/join/xxx)
 
-**Programa** IIC3633, 1er Semestre 2026: [pdf](documentos/IIC3633Sist%20Recomendadores_v5.pdf)
+**Programa** IIC3633, 2do Semestre 2026: [pdf](documentos/IIC3633Sist%20Recomendadores_v5.pdf)
 
 ### AVISOS
 
-* **Seminario**: Desde la semana 13 en adelante, el curso toma la modalidad seminario donde leemos papers recientes y los discutimos en clases.
-Puedes ver la lista de papers del seminario 2026-1 en la [carpeta seminarios de este repositorio](./seminarios).
-
-* **Enunciado Proyecto de Curso**: Se publica el enunciado del proyecto de curso, el cual puede encontrar en [este link](https://github.com/PUC-RecSys-Class/RecSysPUC-2026-1/blob/master/proyecto/Enunciado_Proyecto_Final_RecSys_2026_1.pdf).
-
-
-* **Fechas para las interrogaciones**: I1: 20 de abril (programación de métricas de evaluación), I2: 01 de junio (conceptos fundamentales y métodos). Salas de avisarán a tiempo.
-
-* Plazo para la lectura 1 es este lunes 9 de marzo. Recuerda crear tu cuenta en perusall <a href="https://app.perusall.com/join/PARRA-XZXAH">en este link (codigo curso PARRA-XZXAH)</a>
-
-* Publicación del enunciado de la [Tarea 1](https://github.com/PUC-RecSys-Class/RecSysPUC-2026-1/blob/master/tareas/Tarea_1_RecSys_2026_1.pdf). Recuerden inscribir sus parejas en los grupos de Canvas.
 
 ### Descripción del Curso
 
