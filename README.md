@@ -20,6 +20,7 @@ Agosto-Diciembre 2026
 
 ### AVISOS
 
+* Primera clase: Jueves 6 de Agosto de 2026 (sala B17)
 
 ### Descripción del Curso
 
