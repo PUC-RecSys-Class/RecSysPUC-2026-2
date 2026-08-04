@@ -11,7 +11,7 @@ Agosto-Diciembre 2026
  
 **Institución**: Pontificia Universidad Católica de Chile
 
-**Horario cátedra**: Martes y Jueves, Módulo 3 (11:00 a 12:10). Sala B17.
+**Horario cátedra**: Martes y Jueves, Módulo 3 (11:00 a 12:10). Sala B17.<br/>
 **Horario ayudantía**: Lunes, Módulo 5 (14:50 a 16:00). Sala B17.
 
 **Sitio web lecturas**: [Perusall](https://app.perusall.com/join/PARRA-6XAGJ)
