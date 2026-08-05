@@ -52,7 +52,7 @@ Los contenidos de las semanas 1, 2 y 4 los puedes revisar a tu ritmo en este cur
 | 6       | **Recomendación por ensambles**                           | [slides](./clases/s6_c2_p3-blending_ensemble.pdf)    |
 | 7       | **Recomendación basada en contexto**                      | [slides](./clases/s6_c1-contexto.pdf)    |
 | 7       | **Máquinas de Factorización**                             | [slides](./clases/s6_c2_p2-FMachines.pdf)    | 
-| 7       | **Ideas de proyecto final (2025)**                            |  [slides](./clases/ideas_proyectos-2024-IIC3633.pdf) / [enunciado](./proyecto/Enunciado_Proyecto_Final_RecSys_2025_2.pdf)   |
+| 7       | **Ideas de proyecto final**                            |  [slides](./clases/ideas_proyectos-2024-IIC3633.pdf) / [enunciado](./proyecto/Enunciado_Proyecto_Final_RecSys_2025_2.pdf)   |
 | 7       | **Deep Learning I: Filtrado Colaborativo**                             |  [slides](./clases/DL_CF_2025_2.pdf)    | 
 | 8       |  Bandidos multibrazos                            | [slides](https://drive.google.com/file/d/1xVAbOVGBVh11NsJ7XhAYHebalfQFjvxw/view?usp=sharing)    |
 | 9       |  Aprendizaje Reforzado Intro | [slides](./clases/s10_c1_aprendizaje_reforzado.pdf)    |
