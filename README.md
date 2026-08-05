@@ -99,7 +99,7 @@ Se realizará una tarea que constará de dos partes:
 
 **Lecturas Semanales (5%)**
 
-Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.com/join/PARRA-XZXAH) con su correo UC (codigo de curso **PARRA-XZXAH**). Cada semana deberá escribir 5 comentarios propios y 2 comentarios respondiendo a sus compañeros en los módulos de las lecturas marcadas como obligatorias.
+Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.com/join/PARRA-6XAGJ) con su correo UC (codigo de curso **PARRA-6XAGJ**). En cada lectura deberá escribir 5 comentarios propios y 2 comentarios respondiendo a sus compañeros en los módulos de las lecturas marcadas como obligatorias.
 
 Para descargar los archivos se sugiere buscarlos en [Scholar](https://scholar.google.cl) o a través de [EZProxy](https://login.pucdechile.idm.oclc.org/).
 
@@ -117,7 +117,7 @@ A inicios de octubre, las(los) estudiantes enviarán una idea de proyecto final,
 
 # Lecturas
 
-### Semana 1 (entrega el 9 de marzo):  
+### Semana 1 (entrega el 10 de agosto):  
 
 **Obligatorias**  
 * Kluver, D., Ekstrand, M. D., & Konstan, J. A. (2018). Rating-based collaborative filtering: algorithms and evaluation. Social information access: Systems and technologies, 344-390.
@@ -130,7 +130,7 @@ A inicios de octubre, las(los) estudiantes enviarán una idea de proyecto final,
 * [Post original FunkSVD](https://sifter.org/~simon/journal/20061211.html)  
 * Lemire, D., & Maclachlan, A. (2005). Slope One Predictors for Online Rating-Based Collaborative Filtering. In SDM (Vol. 5, pp. 1-5).
 
-### Semana 2 (entrega el 16 de marzo):
+### Semana 2 (entrega el 17 de agosto):
 
 **Obligatorias**  
 
@@ -150,7 +150,7 @@ A inicios de octubre, las(los) estudiantes enviarán una idea de proyecto final,
 
 * Verstrepen, K., Bhaduriy, K., Cule, B., & Goethals, B. (2017). Collaborative filtering for binary, positiveonly data. ACM Sigkdd Explorations Newsletter, 19(1), 1-21.
 
-### Semana 8 (entrega 29 de septiembre):
+### Semana 8 (entrega xx de septiembre):
 **Obligatorias**  
 
 * Shuai Zhang, Lina Yao, Aixin Sun, and Yi Tay. 2019. Deep Learning Based Recommender System: A Survey and New Perspectives. ACM Comput. Surv. 52, 1, Article 5 (January 2020), 38 pages. [pdf](https://arxiv.org/pdf/1707.07435)
@@ -160,7 +160,7 @@ A inicios de octubre, las(los) estudiantes enviarán una idea de proyecto final,
 * Bansal, T., Belanger, D., & McCallum, A. (2016). Ask the gru: Multi-task learning for deep text recommendations. In Proceedings of the 10th ACM Conference on Recommender Systems (pp. 107-114).
 * He, R., & McAuley, J. (2016). VBPR: visual bayesian personalized ranking from implicit feedback. In Proceedings of the AAAI conference on artificial intelligence (Vol. 30, No. 1).
 
-### Semana 9 (entrega 06 de octubre):
+### Semana 9 (entrega xx de octubre):
 **Obligatorias**  
 
 * Xin Xin, Alexandros Karatzoglou, Ioannis Arapakis, and Joemon M. Jose. 2020. Self-Supervised Reinforcement Learning for Recommender Systems. In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '20). Association for Computing Machinery, New York, NY, USA, 931–940. [pdf](https://arxiv.org/pdf/2006.05779)
@@ -171,12 +171,12 @@ A inicios de octubre, las(los) estudiantes enviarán una idea de proyecto final,
 * Guillou, F., Gaudel, R., & Preux, P. (2016). Scalable explore-exploit collaborative filtering. In Pacific Asia Conference On Information Systems (PACIS). Association For Information System.
 * Teo, C. H., Nassif, H., Hill, D., Srinivasan, S., Goodman, M., Mohan, V., & Vishwanathan, S. V. N. (2016). Adaptive, personalized diversity for visual discovery. In Proceedings of the 10th ACM conference on recommender systems (pp. 35-38).
 
-### Semana 10 (entrega 13 de octubre):
+### Semana 10 (entrega xx de octubre):
 **Obligatorias**  
 
 * Steck, H., Baltrunas, L., Elahi, E., Liang, D., Raimond, Y., & Basilico, J. (2021). Deep Learning for Recommender Systems: A Netflix Case Study. AI Magazine, 42(3), 7-18. [pdf](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/18140)
 
-### Semana 11 (entrega 20 de octubre):
+### Semana 11 (entrega xx de octubre):
 **Obligatorias**  
 
 * Manish Raghavan, Solon Barocas, Jon Kleinberg, and Karen Levy. 2020. Mitigating bias in algorithmic hiring: evaluating claims and practices. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAT* '20). Association for Computing Machinery, New York, NY, USA, 469–481. [pdf](https://arxiv.org/pdf/1906.09208)
