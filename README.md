@@ -69,9 +69,9 @@ Puedes ver la lista de papers del seminario 2026-1 en la [carpeta seminarios de 
 
 ### Planificación 2026-1
 
+<img width="1147" height="420" alt="Image" src="https://github.com/user-attachments/assets/485d1822-53ab-46a7-8c7e-85eb657cf71b" />
 <!--img width="1064" alt="Image" src="https://github.com/user-attachments/assets/bb771e53-b805-42d5-8172-819bbb3ae857" /-->
-<img width="1064" alt="Image" src="./documentos/Planificacion IIC3633 2026-1-v3.png"/>
-
+<!--img width="1064" alt="Image" src="./documentos/Planificacion IIC3633 2026-1-v3.png"/-->
 <!--img width="1064" alt="Image" src="https://github.com/user-attachments/assets/fd10700a-4ce6-44a7-adf7-87dd4426b417" /-->
 
 ### Código de Honor
