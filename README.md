@@ -93,7 +93,7 @@ Habrá una actividad práctica relacionada a cada ayudantía, la cual consistir�
 Se realizará una tarea que constará de dos partes: 
 - Interrogación métricas (25%): Se realizará un práctico en clases (martes 31 de marzo, dependiendo de respuesta DIPRE) acerca de métricas y se entregará a final de la clase​. La inasistencia no justificada equivaldrá a un 1.0.
 - I2 (25%): por definir.
-- Fechas para las interrogaciones: I1: 20 de abril (programación de métricas de evaluación), I2: 01 de junio (conceptos fundamentales y métodos). Salas de avisarán a tiempo.
+- Fechas para las interrogaciones: I1: 4 de septiembre (programación de métricas de evaluación), I2: 22 de octubre (conceptos fundamentales y métodos). Salas se avisarán a tiempo.
 - Tarea (50%): Deberán implementar mecanismos de recomendación para predecir ratings y para rankear items en un dataset entregado por el cuerpo docente.
 
 
@@ -111,7 +111,7 @@ En la segunda mitad del semestre, los estudiantes formarán grupos para leer un 
 
 **Proyecto Final (40%)** 
 
-A inicios de octubre, las(los) estudiantes enviarán una idea de proyecto final, la cual desarrollarán durante octubre, noviembre e inicios de diciembre. Enviarán un informe de avance a fines de octubre, para hacer una presentación de su proyecto al final del curso en una sesión de posters, además de un informe formato paper.
+A inicios de octubre, las(los) estudiantes enviarán una idea de proyecto final, la cual desarrollarán durante octubre, noviembre e inicios de diciembre. Enviarán un informe de avance a fines de octubre, para hacer una presentación de su proyecto al final del curso en una sesión de posters (el día 03 dic, desde las 08:20hrs), además de un informe formato paper.
 
 **IMPORTANTE**: Todas las entregas del curso son a las 20:00 del día de entrega correspondiente.
 
