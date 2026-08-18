@@ -19,7 +19,8 @@ Agosto-Diciembre 2026
 **Programa** IIC3633, 2do Semestre 2026: [pdf](documentos/IIC3633Sist%20Recomendadores_v5.pdf)
 
 ### AVISOS
-
+* Enunciado Tarea 1 (martes 18/08): Se libera el enunciado de la tarea 1, la entrega es el viernes 11 de septiembre.
+* Fechas de interrogaciones: Se confirman las fechas de interrogaciones, <b>I1: 04 sept</b>,  <b>I2: 22 oct</b>.
 * Primera clase: Jueves 6 de Agosto de 2026 (sala B17)
 
 ### Descripción del Curso
