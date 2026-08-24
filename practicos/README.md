@@ -7,10 +7,10 @@ A continuación encontrarán la lista de los prácticos que deberán realizar du
 |----|----------|--------|-----------------|--------------|
 | 1  | [uKNN](https://github.com/PUC-RecSys-Class/RecSysPUC-2026-1/blob/master/practicos/01_uKNN_Surprise.ipynb) y [iKNN](https://github.com/PUC-RecSys-Class/RecSysPUC-2026-1/blob/master/practicos/01_iKNN_Surprise.ipynb) | 2 | 10 de agosto | Pedro Palma |
 | 2  | [FunkSVD](https://github.com/PUC-RecSys-Class/RecSysPUC-2026-1/blob/master/practicos/02_pyRecLab_FunkSVD.ipynb) e [Implicit Feedback](https://github.com/PUC-RecSys-Class/RecSysPUC-2026-1/blob/master/practicos/03_Implicit_feedback_Implicit.ipynb) | 3 | 17 de agosto | José Villalobos |
-| 3  | Content Based texto  y Content Based imágenes | 4 | 24 de agosto | Pedro Palma |
-| 4  | LightFM y DeepFM | 5 | 31 de agosto | José Villalobos |
-| 5  | RecSys DL CF y Sequence| 6 | 07 de septiembre | José Villalobos | 
-| 6  | Bandits y RL 1 | 7 | 28 de septiembre | Pedro Palma | 
+| 3  | [Content Based texto](https://github.com/PUC-RecSys-Class/RecSysPUC-2026-2/blob/master/practicos/04_Content_Based_texto.ipynb)  y [Content Based imágenes](https://github.com/PUC-RecSys-Class/RecSysPUC-2026-2/blob/master/practicos/04_Content_Based_imagenes.ipynb) | 4 | 24 de agosto | Pedro Palma |
+| 4  | [LightFM](https://github.com/PUC-RecSys-Class/RecSysPUC-2026-2/blob/master/practicos/06_lightfm.ipynb) y [DeepFM](https://github.com/PUC-RecSys-Class/RecSysPUC-2026-2/blob/master/practicos/07_deepfm.ipynb) | 5 | 31 de agosto | José Villalobos |
+| 5  | [RecSys DL CF](https://github.com/PUC-RecSys-Class/RecSysPUC-2026-2/blob/master/practicos/08_MultiVAE.ipynb) y [Sequence](https://github.com/PUC-RecSys-Class/RecSysPUC-2026-2/blob/master/practicos/10_GRU4Rec.ipynbhttps://github.com/PUC-RecSys-Class/RecSysPUC-2026-2/blob/master/practicos/10_GRU4Rec.ipynb)| 6 | 07 de septiembre | José Villalobos | 
+| 6  | [Bandits y RL 1](https://github.com/PUC-RecSys-Class/RecSysPUC-2026-2/blob/master/practicos/09_Reinforcement_Learning_Mabwiser.ipynb) | 7 | 28 de septiembre | Pedro Palma | 
 | 7  | Bandits y RL 2 | 8 | 5 de octubre | Pedro Palma |
 | 8  | Generative RecSys 1 | 9 | 12 de octubre |  |
 | 9  | Generative RecSys 2 | 10 | 19 de octubre |  |
