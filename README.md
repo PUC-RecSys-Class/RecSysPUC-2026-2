@@ -19,6 +19,7 @@ Agosto-Diciembre 2026
 **Programa** IIC3633, 2do Semestre 2026: [pdf](documentos/IIC3633Sist%20Recomendadores_v5.pdf)
 
 ### AVISOS
+* Extensión plazo tarea 1: Debido a correción en el dataset, entreda de la tarea 1 se extiende dos días al 13 de septiembre de 2026.
 * Enunciado Tarea 1 (martes 18/08): Se libera el enunciado de la tarea 1, la entrega es el viernes 11 de septiembre.
 * Fechas de interrogaciones: Se confirman las fechas de interrogaciones, <b>I1: 04 sept</b>,  <b>I2: 22 oct</b>.
 * Primera clase: Jueves 6 de Agosto de 2026 (sala B17)
@@ -70,7 +71,8 @@ Puedes ver la lista de papers del seminario 2026-1 en la [carpeta seminarios de 
 
 ### Planificación 2026-1
 
-<img width="1147" height="420" alt="Image" src="https://github.com/user-attachments/assets/485d1822-53ab-46a7-8c7e-85eb657cf71b" />
+<img width="1166" height="421" alt="Image" src="https://github.com/user-attachments/assets/c5890076-e9e3-4b26-af1d-b88b7e8ed58d" />
+<--img width="1147" height="420" alt="Image" src="https://github.com/user-attachments/assets/485d1822-53ab-46a7-8c7e-85eb657cf71b" /-->
 <!--img width="1064" alt="Image" src="https://github.com/user-attachments/assets/bb771e53-b805-42d5-8172-819bbb3ae857" /-->
 <!--img width="1064" alt="Image" src="./documentos/Planificacion IIC3633 2026-1-v3.png"/-->
 <!--img width="1064" alt="Image" src="https://github.com/user-attachments/assets/fd10700a-4ce6-44a7-adf7-87dd4426b417" /-->
