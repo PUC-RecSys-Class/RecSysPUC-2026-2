@@ -71,7 +71,8 @@ Puedes ver la lista de papers del seminario 2026-1 en la [carpeta seminarios de 
 
 ### Planificación 2026-1
 
-<img width="1166" height="421" alt="Image" src="https://github.com/user-attachments/assets/c5890076-e9e3-4b26-af1d-b88b7e8ed58d" />
+<img width="1154" height="419" alt="Image" src="https://github.com/user-attachments/assets/b91faa0e-580a-4594-8d10-de3a423b8c5c" />
+<!--img width="1166" height="421" alt="Image" src="https://github.com/user-attachments/assets/c5890076-e9e3-4b26-af1d-b88b7e8ed58d" /-->
 <--img width="1147" height="420" alt="Image" src="https://github.com/user-attachments/assets/485d1822-53ab-46a7-8c7e-85eb657cf71b" /-->
 <!--img width="1064" alt="Image" src="https://github.com/user-attachments/assets/bb771e53-b805-42d5-8172-819bbb3ae857" /-->
 <!--img width="1064" alt="Image" src="./documentos/Planificacion IIC3633 2026-1-v3.png"/-->
@@ -153,17 +154,7 @@ A inicios de octubre, las(los) estudiantes enviarán una idea de proyecto final,
 
 * Verstrepen, K., Bhaduriy, K., Cule, B., & Goethals, B. (2017). Collaborative filtering for binary, positiveonly data. ACM Sigkdd Explorations Newsletter, 19(1), 1-21.
 
-### Semana 8 (entrega xx de septiembre):
-**Obligatorias**  
-
-* Shuai Zhang, Lina Yao, Aixin Sun, and Yi Tay. 2019. Deep Learning Based Recommender System: A Survey and New Perspectives. ACM Comput. Surv. 52, 1, Article 5 (January 2020), 38 pages. [pdf](https://arxiv.org/pdf/1707.07435)
-
-**Sugeridas**
-* Covington, P., Adams, J., & Sargin, E. (2016). Deep neural networks for youtube recommendations. In Proceedings of the 10th ACM conference on recommender systems (pp. 191-198).
-* Bansal, T., Belanger, D., & McCallum, A. (2016). Ask the gru: Multi-task learning for deep text recommendations. In Proceedings of the 10th ACM Conference on Recommender Systems (pp. 107-114).
-* He, R., & McAuley, J. (2016). VBPR: visual bayesian personalized ranking from implicit feedback. In Proceedings of the AAAI conference on artificial intelligence (Vol. 30, No. 1).
-
-### Semana 9 (entrega xx de octubre):
+### Semana 9 (entrega 5 de octubre):
 **Obligatorias**  
 
 * Xin Xin, Alexandros Karatzoglou, Ioannis Arapakis, and Joemon M. Jose. 2020. Self-Supervised Reinforcement Learning for Recommender Systems. In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '20). Association for Computing Machinery, New York, NY, USA, 931–940. [pdf](https://arxiv.org/pdf/2006.05779)
@@ -174,15 +165,15 @@ A inicios de octubre, las(los) estudiantes enviarán una idea de proyecto final,
 * Guillou, F., Gaudel, R., & Preux, P. (2016). Scalable explore-exploit collaborative filtering. In Pacific Asia Conference On Information Systems (PACIS). Association For Information System.
 * Teo, C. H., Nassif, H., Hill, D., Srinivasan, S., Goodman, M., Mohan, V., & Vishwanathan, S. V. N. (2016). Adaptive, personalized diversity for visual discovery. In Proceedings of the 10th ACM conference on recommender systems (pp. 35-38).
 
-### Semana 10 (entrega xx de octubre):
+### Semana 10 (entrega 12 de octubre):
 **Obligatorias**  
 
-* Steck, H., Baltrunas, L., Elahi, E., Liang, D., Raimond, Y., & Basilico, J. (2021). Deep Learning for Recommender Systems: A Netflix Case Study. AI Magazine, 42(3), 7-18. [pdf](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/18140)
+Zhang, Y., Xu, W., Zhao, X., Wang, W., Feng, F., He, X., & Chua, T. S. (2026, April). Reinforced latent reasoning for llm-based recommendation. In International Conference on Learning Representations (Vol. 2026, pp. 128449-128470). [pdf](https://proceedings.iclr.cc/paper_files/paper/2026/file/d0c6bc641a56bebee9d985b937307367-Paper-Conference.pdf)
 
-### Semana 11 (entrega xx de octubre):
+### Semana 11 (entrega 19 de octubre):
 **Obligatorias**  
 
-* Manish Raghavan, Solon Barocas, Jon Kleinberg, and Karen Levy. 2020. Mitigating bias in algorithmic hiring: evaluating claims and practices. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAT* '20). Association for Computing Machinery, New York, NY, USA, 469–481. [pdf](https://arxiv.org/pdf/1906.09208)
+Raghavan, M., Barocas, S., Kleinberg, J., & Levy, K. (2020, January). Mitigating bias in algorithmic hiring: Evaluating claims and practices. In Proceedings of the 2020 conference on fairness, accountability, and transparency (pp. 469-481). [pdf](https://dl.acm.org/doi/pdf/10.1145/3351095.3372828)
 
 <!--
 
