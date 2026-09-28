@@ -102,6 +102,10 @@ Se realizará una tarea que constará de dos partes:
 - Tarea (50%): Deberán implementar mecanismos de recomendación para predecir ratings y para rankear items en un dataset entregado por el cuerpo docente.
 
 
+**Recursos**
+ 
+ - ¿Buscas un resumen de la investigación en RecSys, tendencias, problemas abiertos? [esto te puede servir](https://kordikp.github.io/atlas/)
+
 **Lecturas Semanales (5%)**
 
 Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.com/join/PARRA-6XAGJ) con su correo UC (codigo de curso **PARRA-6XAGJ**). En cada lectura deberá escribir 5 comentarios propios y 2 comentarios respondiendo a sus compañeros en los módulos de las lecturas marcadas como obligatorias.
