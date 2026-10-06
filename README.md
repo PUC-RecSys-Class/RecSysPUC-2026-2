@@ -62,7 +62,7 @@ Los contenidos de las semanas 1, 2 y 4 los puedes revisar a tu ritmo en este cur
 | 9       |  Aprendizaje Reforzado Intro | [slides](./clases/s10_c1_aprendizaje_reforzado.pdf)    |
 | 9       |  Aprendizaje Reforzado for RecSys I| [slides](./clases/s10_SSRL_recsys_2021.pdf)    |
 | 9       |  Aprendizaje Reforzado for RecSys II| [slides](./clases/s10_RecSys_RL_Slides_ICML_2024.pdf)    |
-| 10       |  Rec. Generativos I - Intro| [slides](./clases/genrecsys_I.pdf)    |
+| 10       |  Rec. Generativos I - Intro| [slides](./clases/genrecsys_I.pdf)  [GenRec by Netflix](https://arxiv.org/abs/2608.10257v2)  |
 | 10       |  Rec. Generativos II - Semantic IDs| [slides](./clases/genrecsys_II.pdf)    |
 | 10       |  Rec. Generativos III | [slides](./clases/genrecsys_III.pdf)    |
 | 10       |  Rec. Generativos IV| [slides](./clases/genrecsys_IV.pdf)    |
