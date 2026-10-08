@@ -2,34 +2,38 @@
 
 ## Indicaciones Generales
 
-- La rúbrica actualizada de evaluación está disponible en la [presentación de evaluaciones del curso](https://uccl0-my.sharepoint.com/:p:/g/personal/dparras_uc_cl/IQB6f_k9WyPdRJ1UEg9dZNLFAfCHblyC9D7KWGijAiZepLU?e=nS3V30). 
+- La rúbrica actualizada de evaluación está disponible en la [presentación de evaluaciones del curso](https://docs.google.com/presentation/d/1X6ZbxDMtY24_HIgNarUGYby_xGww-mhA/edit?usp=drive_link&ouid=117162684479006234258&rtpof=true&sd=true). 
 
-- El listado de papers para elegir se encuentra disponible en el siguiente [enlace](https://uccl0-my.sharepoint.com/:x:/g/personal/dparras_uc_cl/IQBQlKMiripgTYolXsi0Tp9FAU1zb5cTu_aOnMnz27eW_Xg).
+- El listado de papers para elegir se encuentra disponible en el siguiente [enlace](https://docs.google.com/spreadsheets/d/1pPbTie-m1ANs1UHUctUysE4aflYy64apOaS27wdZDME/edit?gid=0#gid=0).
 
-- El [calendario de presentaciones](https://uccl0-my.sharepoint.com/:x:/g/personal/dparras_uc_cl/IQAhF5WRgly0QrOQogN8E0OQAS3PVG8vlFhogdnegObhu00?e=lkLdBw) está publicado y disponible en el enlace adjunto.
+- El [calendario de presentaciones](https://docs.google.com/spreadsheets/d/1pPbTie-m1ANs1UHUctUysE4aflYy64apOaS27wdZDME/edit?gid=0#gid=0) está publicado y disponible en el enlace adjunto.
 
 - En Canvas está disponible el buzón donde se debe entregar el material correspondiente a su seminario, el cual deben enviar hasta las **20:00 hrs del día anterior de su presentación**.
 
-- El [formulario de coevaluación](https://docs.google.com/forms/d/e/1FAIpQLSdi0_SaTnlphbPwKXMzJ8H22hI8vOcGBjP6jF-VpuAKr2kEKQ/viewform?usp=publish-editor) lo pueden encontrar en el enlace adjunto.
+<!-- - El [formulario de coevaluación]() lo pueden encontrar en el enlace adjunto. -->
 
 
 ## Cronograma y material de seminarios
 
 | Semana  | Día    | Paper            | Link slide(s) | Conferencia   | Presentación  |
 |:--------|:-------|:-----------------|:-------------:|:-------------:|:-------------:|
-|13       | 26-may | You Don't Bring Me Flowers: Mitigating Unwanted Recommendations Through Conformal Risk Control | [Slides](./You_Dont_Bring_Me_Flowers.pdf) | [RecSys 2025](https://arxiv.org/abs/2507.16829) | [Video](https://uccl0-my.sharepoint.com/:v:/g/personal/dparras_uc_cl/IQAW_xta1VzxTIuOvmJ9HfRPAULnqoSje4lO6rIUTjIVDWw?e=L3oG4Z) |
-|13       | 26-may | Allingning Distillation For Cold Start Item Recomendation | [Slides](./Aligning_Distillation_for_Cold-start_Item_Recommendation.pdf) | [SIGIR 2023](https://dl.acm.org/doi/10.1145/3539618.3591732) | [Video](https://www.youtube.com/watch?v=pKB7QswptTY) |
-|13       | 28-may | Unbiased Recommender Learning from Implicit Feedback via Weakly Supervised Learning | [Slides](./Unbiased_Recommender_Learning_from_Implicit_Feedback.pdf) | [ICML 2025](https://proceedings.mlr.press/v267/wang25p.html) | [Video](https://uccl0-my.sharepoint.com/:v:/g/personal/dparras_uc_cl/IQDSZ0iRxFZyTIZSz1CGmW7YAbHOsm8onUKpn4N8qd4mm7g?e=l5XRfc) |
-|13       | 28-may | LLM-Powered User Simulator for Recommender System |[Slides](./LLM-Powered_User_Simulator_for_Recommender_System.pdf) | [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/33456) | Sin Video |
-|14       | 02-jun | Heterogeneous Graph Contrastive Learning for Recommendation | [Slides](./Heterogeneous_Graph_Contrastive_Learning_for_Recommendation.pdf)| [WSDM 2023](https://arxiv.org/pdf/2303.00995) | Sin Video |
-|14       | 02-jun | AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender Systems | [Slides](./AgentRecBench.pdf) | [NeurIPS 2025](https://arxiv.org/pdf/2505.19623) | [Video](https://uccl0-my.sharepoint.com/:v:/g/personal/dparras_uc_cl/IQBiB_gUewvTQpVqWZW5ztoFAajdfNGj_lLnYjlxdCw7Q_U) |
-|14       | 04-jun | Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System | [Slides](./A-LLMRec_Efficient_All-round_Recommendation.pdf) | [KDD 2024](https://arxiv.org/pdf/2404.11343) | Sin Video |
-|14       | 04-jun | LLMEmb: Large Language Model Can Be a Good Embedding Generator for Sequential Recommendation | [Slides](./LLMEmb.pdf) | [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/33327) | Sin Video |
-|15       | 09-jun | Catalog-Native LLM: Speaking Item-ID Dialect with Less Entanglement for Recommendation | [Slides](./Catalog-Native%20LLM.pdf) | [ICLR 2026](https://arxiv.org/pdf/2510.05125) | Sin Video |
-|15       | 09-jun | ActionPiece: Contextually Tokenizing Action Sequences for Generative Recommendation | [Slides](./ActionPiece.pdf) | [ICML 2025](https://arxiv.org/pdf/2502.13581) | Sin Video |
-|15       | 11-jun | Rank-GRPO: Training LLM-based Conversational Recommender Systems with Reinforcement Learning | [Slides](./Rank-GRPO.pdf) | [ICLR 2026](https://arxiv.org/pdf/2510.20150) | Sin Video |
-|15       | 11-jun | DLCRec: A Novel Approach for Managing Diversity in LLM-Based Recommender Systems | [Slides](./DLCRec_A_Novel_Approach_for_Managing_diversity_in_LLM-Based_Recommender_Systems.pdf) | [WSDM 2025](https://arxiv.org/pdf/2408.12470) | [Video](https://uccl0-my.sharepoint.com/:v:/g/personal/catalina_anusch_uc_cl/IQAoJqCM0HGdQKDve2PVL-C7AYAhh3wiH_xVSd4hIuIMB4Y?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;e=3t12Lr) |
-|16       | 16-jun | CollectiveKV: Decoupling and Sharing Collaborative Information in Sequential Recommendation | [Slides](./Collective_KV.pdf) | [ICLR 2026](https://arxiv.org/pdf/2601.19178) | Sin Video |
-|16       | 16-jun | Item-Difficulty-Aware Learning Path Recommendation: From a Real Walking Perspective | [Slides](./DLPR.pdf) | [KDD 2024](http://staff.ustc.edu.cn/~huangzhy/files/papers/HaotianZhang-KDD2024.pdf) | [Video](https://uccl0-my.sharepoint.com/:v:/g/personal/dlealo_estudiante_uc_cl/IQAWS_q5A7sPQo4xHyI4mAZJAdo6pHC6zPWcgMCfxjvqeCw?xsdata=MDV8MDJ8YXBsYXphMkB1Yy5jbHxjODI0MzY1YWU3YTI0YmYwYjEwMzA4ZGVjYjM2ODkwYXw1ZmY1ZDlmYWY4M2Y0YWMxYTRkMmViNDhlYTBhMDBkMnwwfDB8NjM5MTcxNjMyMjQzMzQyNDA0fFVua25vd258VFdGcGJHWnNiM2Q4ZXlKRmJYQjBlVTFoY0draU9uUnlkV1VzSWxZaU9pSXdMakF1TURBd01DSXNJbEFpT2lKWGFXNHpNaUlzSWtGT0lqb2lUV0ZwYkNJc0lsZFVJam95ZlE9PXwwfHx8&sdata=aGVSb0dCMm9aMEhlMnA0bmcxRFlBUERWcWE2Q0k4U2tUWWhTV3NxUzhXbz0%3d) |
-|16       | 18-jun | Temporal Linear Item-Item Model for Sequential Recommendation | [Slides](./TALE-Temporal_Linear_Item-Item_Model_for_Sequential_Recommendation.pdf) | [WSDM 2025](https://arxiv.org/pdf/2412.07382) | Sin Video |
-|16       | 18-jun | LLM-ESR: Large Language Models Enhancement for Long-tailed Sequential Recommendation | [Slides](./LLM-ESR.pptx) | [NeurIPS 2024](https://arxiv.org/pdf/2405.20646) | [Video](https://1drv.ms/v/c/6a30530e3c1cbeb5/IQAiWhgikEOUTZv2uIm_EYwgAaLkopcpvqRlobNai0vzYIY?e=7Wfd9N) |
+|12       | 27-oct | Reinforced Latent Reasoning for LLM-based Recommendation | [Slides]() | [ICLR 2026](https://proceedings.iclr.cc/paper_files/paper/2026/file/d0c6bc641a56bebee9d985b937307367-Paper-Conference.pdf) | [Video]() |
+|12       | 27-oct | Deep Neural Networks for YouTube Recommendations | [Slides]() | [RecSys 2016](https://dl.acm.org/doi/abs/10.1145/2959100.2959190) | [Video]() |
+|12       | 29-oct | GenRec: An LLM-Backed Recommendation Ranker at NetflixConference | [Slides]() | [Arxiv 2026](https://arxiv.org/html/2608.10257v2) | [Video]() |
+|12       | 29-oct | Harnessing Multimodal Large Language Models for Multimodal Sequential Recommendation |[Slides]() | [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/33426) | [Video]() |
+|13       | 03-nov | Do Recommender Systems Really Leverage Multimodal Content? A Comprehensive Analysis on Multimodal Representations for Recommendation | [Slides]()| [CIKM 2025](https://dl.acm.org/doi/pdf/10.1145/3746252.3761398) | [Video]() |
+|13       | 03-nov | Contextual and Sequential User Embeddings for Large-Scale Music Recommendation | [Slides]() | [RecSys 2020](https://dl.acm.org/doi/10.1145/3383313.3412248) | [Video]() |
+|13       | 05-nov | Keeping Dataset Biases out of the Simulation: A Debiased Simulator for Reinforcement Learning based Recommender Systems | [Slides]() | [RecSys 2020](https://dl.acm.org/doi/10.1145/3383313.3412252) | [Video]() |
+|13       | 05-nov | OneRec: Unifying Retrieve and Rank with Generative Recommender and Iterative Preference Alignment | [Slides]() | [Arxiv 2025](https://arxiv.org/abs/2502.18965) | [Video]() |
+|14       | 10-nov | Causal Inference for Recommender Systems | [Slides]() | [RecSys 2020](https://dl.acm.org/doi/10.1145/3383313.3412225) | [Video]() |
+|14       | 10-nov | Generating Personalized Images for Sparse-Interaction Users with Uncertainty-Aware Retrieval and Dense Knowledge Guidance | [Slides]() | [RecSys 2026](https://dl.acm.org/doi/10.1145/3773078.3831767) | [Video]() |
+|14       | 12-nov | Differentiable Semantic ID for Generative Recommendation | [Slides]() | [SIGIR 2026](https://dl.acm.org/doi/pdf/10.1145/3805712.3809641) | [Video]() |
+|14       | 12-nov | Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5) | [Slides]() | [RecSys 2022](https://arxiv.org/abs/2203.13366) | [Video]() |
+|15       | 17-nov | Uncovering ChatGPT’s Capabilities in Recommender Systems | [Slides]() | [RecSys 2023](https://arxiv.org/abs/2305.02182) | [Video]() |
+|15       | 17-nov | Consensus vs. Dissent: Dynamic LLM Modeling of SubjectivePreferences in Group Recommenders | [Slides]() | [RecSys 2026](https://arxiv.org/abs/2607.10235) | [Video]() |
+|15       | 19-nov | Generative Recommender with End-to-End Learnable Item Tokenization | [Slides]() | [SIGIR 2025](https://dl.acm.org/doi/abs/10.1145/3726302.3729989) | [Video]() |
+|15       | 19-nov | DARLR: Dual-Agent Offline Reinforcement Learning for Recommender Systems with Dynamic Reward | [Slides]() | [SIGIR 2025](https://arxiv.org/abs/2505.07257) | [Video]() |
+|16       | 24-nov | Agentic Feedback Loop Modeling Improves Recommendation and User Simulation | [Slides]() | [SIGIR 2025](https://arxiv.org/pdf/2410.20027) | [Video]() |
+|16       | 24-nov | PLUM: Adapting Pre-trained Language Models for Industrial-scale Generative Recommendations | [Slides]() | [WWW 2026](https://dl.acm.org/doi/10.1145/3774904.3792802) | [Video]() |
+|16       | 26-nov | Deploying Semantic ID-based Generative Retrieval for Large-Scale Podcast Discovery at Spotify | [Slides]() | [Arxiv 2026](https://arxiv.org/abs/2603.17540) | [Video]() |
+|16       | 26-nov | From IDs to Semantics: A Generative Framework for Cross-Domain Recommendation with Adaptive Semantic Tokenization | [Slides]() | [AAAI 2026](https://arxiv.org/abs/2511.08006) | [Video]() |
