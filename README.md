@@ -19,6 +19,7 @@ Agosto-Diciembre 2026
 **Programa** IIC3633, 2do Semestre 2026: [pdf](documentos/IIC3633Sist%20Recomendadores_v5.pdf)
 
 ### AVISOS
+* Link para [práctico 1 (inferencia) en clases de LLM Generative RecSys + Semantic IDs](https://colab.research.google.com/drive/1pdKMTNHf3dsouLQznxtSM_L_pQjFfQL-) y para * Link para [práctico 2 (entrenar) en clases de LLM Generative RecSys + Semantic IDs](https://colab.research.google.com/drive/1TlBOnPzjIE70qosNAPWOZjWYUGWHEjDj). Los archivos adicionales necesarios para correr los prácticos están en canvas (sección Tareas).
 * ¡Están disponibles los resultados del challenge (con bono) para la tarea 1! [Learboard tarea 1](https://contest-recsys.vercel.app/) Felicitaciones a todos quienes se motivaron por participar y a los ganadores de cada categoría: **Rating Prediction** (eight nine, MAPA, Nain) y **Ranking** (eight nine, Kongfiadores, Nain).
 * Extensión plazo tarea 1: Debido a correción en el dataset, entrega de la tarea 1 se extiende dos días al 13 de septiembre de 2026.
 * Enunciado Tarea 1 (martes 18/08): Se libera el enunciado de la tarea 1, la entrega es el viernes 11 de septiembre.
