@@ -56,7 +56,7 @@ Los contenidos de las semanas 1, 2 y 4 los puedes revisar a tu ritmo en este cur
 | 4/5       | **Máquinas de Factorización**                             | [slides](./clases/s6_c2_p2-FMachines.pdf)    | 
 | 5       | **Recomendación híbrida**                                 | [slides](./clases/s6_c1-hibridos.pdf)    | 
 | 5       | **Recomendación por ensambles**                           | [slides](./clases/s6_c2_p3-blending_ensemble.pdf)    |
-| 6       | **Deep Learning I: Filtrado Colaborativo**                             |  [slides](./clases/DL_CF_2025_2.pdf)    | 
+| 6       | **Deep Learning I: Filtrado Colaborativo**                             |  [slides](./clases/s6_c2_DeepL_CF.pdf)    | 
 | 6       | **Deep Learning II: Recomendación secuencial**                             |  [slides](./clases/s10_c1_secu_deep_learning.pdf)    |
 | 7       | **SEMANA DE RECESO**                            |  Escuchar Radiohead o Pink Floyd(?!)    |
 | 8       |  Bandidos multibrazos                            | [slides](https://drive.google.com/file/d/1xVAbOVGBVh11NsJ7XhAYHebalfQFjvxw/view?usp=sharing)    |
