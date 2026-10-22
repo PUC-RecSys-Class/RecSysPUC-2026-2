@@ -74,7 +74,7 @@ Los contenidos de las semanas 1, 2 y 4 los puedes revisar a tu ritmo en este cur
 
 
 Desde la semana 13 en adelante, el curso toma la modalidad seminario donde leemos papers recientes y los discutimos en clases.
-Puedes ver la lista de papers del seminario 2026-1 en la [carpeta seminarios de este repositorio](./seminarios).
+Puedes ver la lista de papers del seminario 2026-2 en la [carpeta seminarios de este repositorio](./seminarios).
 
 ### Planificación 2026-1
 
