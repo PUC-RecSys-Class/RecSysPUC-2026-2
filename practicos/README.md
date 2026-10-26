@@ -10,10 +10,10 @@ A continuación encontrarán la lista de los prácticos que deberán realizar du
 | 3  | [Content Based texto](https://github.com/PUC-RecSys-Class/RecSysPUC-2026-2/blob/master/practicos/04_Content_Based_texto.ipynb)  y [Content Based imágenes](https://github.com/PUC-RecSys-Class/RecSysPUC-2026-2/blob/master/practicos/04_Content_Based_imagenes.ipynb) | 4 | 24 de agosto | Pedro Palma |
 | 4  | [LightFM](https://github.com/PUC-RecSys-Class/RecSysPUC-2026-2/blob/master/practicos/06_lightfm.ipynb) y [DeepFM](https://github.com/PUC-RecSys-Class/RecSysPUC-2026-2/blob/master/practicos/07_deepfm.ipynb) | 5 | 31 de agosto | José Villalobos |
 | 5  | [RecSys DL CF](https://github.com/PUC-RecSys-Class/RecSysPUC-2026-2/blob/master/practicos/08_MultiVAE.ipynb) y [Sequence](https://github.com/PUC-RecSys-Class/RecSysPUC-2026-2/blob/master/practicos/10_GRU4Rec.ipynb)| 6 | 07 de septiembre | José Villalobos | 
-| 6  | [Bandits y RL 1](https://github.com/PUC-RecSys-Class/RecSysPUC-2026-2/blob/master/practicos/09_Reinforcement_Learning_Mabwiser.ipynb) | 7 | 28 de septiembre | Pedro Palma | 
-| 7  | Bandits y RL 2 | 8 | 5 de octubre | Pedro Palma |
-| 8  | Generative RecSys 1 | 9 | 12 de octubre |  |
-| 9  | Generative RecSys 2 | 10 | 19 de octubre |  |
+| 6  | [Bandits](https://github.com/PUC-RecSys-Class/RecSysPUC-2026-2/blob/master/practicos/09_Reinforcement_Learning_Mabwiser.ipynb) | 7 | 28 de septiembre | Pedro Palma | 
+| 7  | [RL](https://github.com/PUC-RecSys-Class/RecSysPUC-2026-2/blob/master/practicos/11_Reinforcement_Learning_EasyRL4Rec.ipynb) | 8 | 5 de octubre | Pedro Palma |
+| 8  | Generative RecSys 1 | 9 | 13 de octubre | Alonso Tamayo |
+| 9  | [Generative RecSys 2](https://github.com/PUC-RecSys-Class/RecSysPUC-2026-2/blob/master/practicos/13_miniTIGER.ipynb) | 10 | 15 de octubre | Pedro Palma |
 
 
 ## Material 2026-1
