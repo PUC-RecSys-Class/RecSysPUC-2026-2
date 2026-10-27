@@ -17,8 +17,8 @@
 
 | Semana  | Día    | Paper            | Link slide(s) | Conferencia   | Presentación  |
 |:--------|:-------|:-----------------|:-------------:|:-------------:|:-------------:|
-|12       | 27-oct | Reinforced Latent Reasoning for LLM-based Recommendation | [Slides]() | [ICLR 2026](https://proceedings.iclr.cc/paper_files/paper/2026/file/d0c6bc641a56bebee9d985b937307367-Paper-Conference.pdf) | [Video]() |
-|12       | 27-oct | Deep Neural Networks for YouTube Recommendations | [Slides]() | [RecSys 2016](https://dl.acm.org/doi/abs/10.1145/2959100.2959190) | [Video]() |
+|12       | 27-oct | Reinforced Latent Reasoning for LLM-based Recommendation | [Slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2026-2/blob/master/seminarios/LatentR3%20-%20RecSys-1.pdf) | [ICLR 2026](https://proceedings.iclr.cc/paper_files/paper/2026/file/d0c6bc641a56bebee9d985b937307367-Paper-Conference.pdf) | Sin Video |
+|12       | 27-oct | Deep Neural Networks for YouTube Recommendations | [Slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2026-2/blob/master/seminarios/VB%20%26%20VE%20Deep%20Neural%20Networks%20for%20YouTube%20Recommendations.pdf) | [RecSys 2016](https://dl.acm.org/doi/abs/10.1145/2959100.2959190) | Sin Video |
 |12       | 29-oct | GenRec: An LLM-Backed Recommendation Ranker at NetflixConference | [Slides]() | [Arxiv 2026](https://arxiv.org/html/2608.10257v2) | [Video]() |
 |12       | 29-oct | Harnessing Multimodal Large Language Models for Multimodal Sequential Recommendation |[Slides]() | [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/33426) | [Video]() |
 |13       | 03-nov | Do Recommender Systems Really Leverage Multimodal Content? A Comprehensive Analysis on Multimodal Representations for Recommendation | [Slides]()| [CIKM 2025](https://dl.acm.org/doi/pdf/10.1145/3746252.3761398) | [Video]() |
